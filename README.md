@@ -70,4 +70,5 @@ bash mvn spring-boot:run
 A aplicação estará disponível em:
 http://localhost:8080
 
-
+## Menção
+Esse projeto foi desenvolvido em conjunto ao Curso de Desenvolvimento Java do Professor Nélio Alves disponível na plataforma Udemy 
